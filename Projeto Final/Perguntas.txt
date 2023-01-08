@@ -1,0 +1,17 @@
+---------- Análise das UCs e Cursos -------------------------------
+Nº de Turmas por cada UC?
+Nº de Turmas por cada Curso?
+Quantos alunos existem por curso?
+
+
+--------- Análise De Assiduidade ---------------------------------
+Presenças por curso?
+Presenças por hora?
+Presenças por Unidade Curricular?
+Média de Assiduidade por curso? Por ano? Por UC? Por Turma?
+
+
+--------- Análise da relação da Assiduidade com a Aprovação ------
+Análise ao longo dos anos?
+Aproveitamento dos alunos que reprovaram em relação aos demitidos?
+Relação de Inscritos com admitidos por UC?
